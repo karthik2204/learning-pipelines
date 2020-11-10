@@ -1,3 +1,4 @@
+//Declarative Pipeline
 pipeline {
     agent {
     node {
